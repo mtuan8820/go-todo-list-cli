@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Wake up at 6:30 AM",
+        "completed": false,
+        "created_at": "0001-01-01T00:00:00Z",
+        "completed_at": ""
+    },
+    {
+        "title": "Study",
+        "completed": false,
+        "created_at": "0001-01-01T00:00:00Z",
+        "completed_at": "0001-01-01T00:00:00Z"
+    },
+    {
+        "title": "Buy groceries",
+        "completed": false,
+        "created_at": "2025-02-05T16:55:20.3881636+07:00",
+        "completed_at": "0001-01-01T00:00:00Z"
+    }
+]
